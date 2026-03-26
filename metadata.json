@@ -1,0 +1,5 @@
+{
+  "name": "UAB Sanlitas - Santechnikos ir Inžinerinių Sistemų Ekspertai",
+  "description": "UAB Sanlitas - profesionalios santechnikos, šildymo, vėdinimo ir inžinerinių tinklų paslaugos Plungėje. Prekyba ir montavimas.",
+  "requestFramePermissions": ["geolocation"]
+}
